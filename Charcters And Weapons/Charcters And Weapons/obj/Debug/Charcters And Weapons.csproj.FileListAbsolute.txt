@@ -1,0 +1,7 @@
+G:\tasks\Design Pattern\Charcters And Weapons\Charcters And Weapons\bin\Debug\Charcters And Weapons.exe.config
+G:\tasks\Design Pattern\Charcters And Weapons\Charcters And Weapons\bin\Debug\Charcters And Weapons.exe
+G:\tasks\Design Pattern\Charcters And Weapons\Charcters And Weapons\bin\Debug\Charcters And Weapons.pdb
+G:\tasks\Design Pattern\Charcters And Weapons\Charcters And Weapons\obj\Debug\Charcters And Weapons.csprojAssemblyReference.cache
+G:\tasks\Design Pattern\Charcters And Weapons\Charcters And Weapons\obj\Debug\Charcters And Weapons.csproj.CoreCompileInputs.cache
+G:\tasks\Design Pattern\Charcters And Weapons\Charcters And Weapons\obj\Debug\Charcters And Weapons.exe
+G:\tasks\Design Pattern\Charcters And Weapons\Charcters And Weapons\obj\Debug\Charcters And Weapons.pdb

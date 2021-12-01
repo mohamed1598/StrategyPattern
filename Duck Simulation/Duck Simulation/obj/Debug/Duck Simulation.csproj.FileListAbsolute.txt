@@ -1,0 +1,7 @@
+G:\tasks\Design Pattern\Duck Simulation\Duck Simulation\bin\Debug\Duck Simulation.exe.config
+G:\tasks\Design Pattern\Duck Simulation\Duck Simulation\bin\Debug\Duck Simulation.exe
+G:\tasks\Design Pattern\Duck Simulation\Duck Simulation\bin\Debug\Duck Simulation.pdb
+G:\tasks\Design Pattern\Duck Simulation\Duck Simulation\obj\Debug\Duck Simulation.csprojAssemblyReference.cache
+G:\tasks\Design Pattern\Duck Simulation\Duck Simulation\obj\Debug\Duck Simulation.csproj.CoreCompileInputs.cache
+G:\tasks\Design Pattern\Duck Simulation\Duck Simulation\obj\Debug\Duck Simulation.exe
+G:\tasks\Design Pattern\Duck Simulation\Duck Simulation\obj\Debug\Duck Simulation.pdb
